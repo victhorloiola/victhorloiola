@@ -32,21 +32,3 @@
 ✦ Code Quality           →  unit testing, SOLID principles and clean code
 ```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=victhorloiola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhorloiola&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victhorloiola&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victhorloiola&color=3B82F6&style=flat-square&label=profile+views"/>
-</p>
