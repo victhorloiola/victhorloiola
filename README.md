@@ -30,7 +30,6 @@
 
 ## 🎯 What I Focus On
 
-text
 ✦ Python Development     →  building applications, APIs and automation scripts
 ✦ Machine Learning       →  studying models, data processing and intelligent systems
 ✦ Artificial Intelligence→  working with LLMs, RAG, AI agents and applied AI solutions
