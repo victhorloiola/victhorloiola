@@ -46,5 +46,6 @@
  
 ⸻
  
-🚀 Current Learning Path
+ 
+ 🚀 Current Learning Path
 Python → Data Analysis → Machine Learning → LLMs/RAG → FastAPI → Cloud → AI Projects
