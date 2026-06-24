@@ -1,11 +1,11 @@
-<h1 align="center">Java Back-End • DevOps • Cloud</h1>
+<h1 align="center">Python Developer • AI • Machine Learning</h1>
 
 <p align="center">
-  Building scalable back-end applications, RESTful APIs & cloud-ready solutions
+  Building intelligent applications, machine learning solutions & AI-powered systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;SQL+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+Linux+%7C+Git;AWS+%7C+Cloud+%7C+DevOps;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+%7C+FastAPI+%7C+SQL;Machine+Learning+%7C+Data+Analysis+%7C+AI;LLMs+%7C+RAG+%7C+AI+Agents;Pandas+%7C+NumPy+%7C+Scikit-learn;Cloud+%7C+APIs+%7C+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,14 +13,16 @@
 ## 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -28,10 +30,16 @@
 
 ## 🎯 What I Focus On
 
-```text
-✦ Java Back-End          →  building robust applications with Java and Spring Boot
-✦ RESTful APIs           →  creating scalable and well-structured API services
-✦ Databases              →  working with SQL, PostgreSQL and MySQL
-✦ DevOps Fundamentals    →  Linux, Docker, Git, CI/CD and deployment workflows
-✦ Cloud Computing        →  cloud-ready applications and AWS fundamentals
-✦ Software Engineering   →  clean code, OOP, architecture and best practices
+text
+✦ Python Development     →  building applications, APIs and automation scripts
+✦ Machine Learning       →  studying models, data processing and intelligent systems
+✦ Artificial Intelligence→  working with LLMs, RAG, AI agents and applied AI solutions
+✦ Data Analysis          →  using Pandas, NumPy, SQL and visualization tools
+✦ FastAPI & APIs         →  connecting AI models to real applications through APIs
+✦ Cloud Fundamentals     →  preparing applications for deployment and scalability
+✦ Software Engineering   →  clean code, architecture, OOP and best practices
+ 
+⸻
+ 
+🚀 Current Learning Path
+Python → Data Analysis → Machine Learning → LLMs/RAG → FastAPI → Cloud → AI Projects
