@@ -31,11 +31,17 @@
 ## 🎯 What I Focus On
 
 ✦ Python Development     →  building applications, APIs and automation scripts
+
 ✦ Machine Learning       →  studying models, data processing and intelligent systems
+
 ✦ Artificial Intelligence→  working with LLMs, RAG, AI agents and applied AI solutions
+
 ✦ Data Analysis          →  using Pandas, NumPy, SQL and visualization tools
+
 ✦ FastAPI & APIs         →  connecting AI models to real applications through APIs
+
 ✦ Cloud Fundamentals     →  preparing applications for deployment and scalability
+
 ✦ Software Engineering   →  clean code, architecture, OOP and best practices
  
 ⸻
