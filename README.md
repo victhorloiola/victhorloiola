@@ -94,27 +94,6 @@ I am currently developing my skills in:
 
 ---
 
-## 📌 Featured Project Ideas
-
-```text
-Face Recognition System
-AI Resume Analyzer
-Machine Learning Prediction API
-RAG Chatbot with Documents
-Data Analysis Dashboard
-Automation Bot with Python
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victhorloiola&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhorloiola&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
