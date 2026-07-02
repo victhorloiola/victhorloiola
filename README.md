@@ -1,47 +1,45 @@
-<h1 align="center">Python Developer • AI • Machine Learning</h1>
+<h1 align="center">Java Developer • Back-End • Spring Boot</h1>
 
 <p align="center">
-  Building intelligent applications, APIs, automation tools and AI-powered systems
+  Software Engineering student focused on building back-end applications, REST APIs and scalable systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Python+Developer;Machine+Learning+%7C+Data+Analysis+%7C+AI;FastAPI+%7C+REST+APIs+%7C+Automation;LLMs+%7C+RAG+%7C+AI+Agents;Pandas+%7C+NumPy+%7C+Scikit-learn;Cloud+Fundamentals+%7C+Clean+Code+%7C+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Java+Developer;Back-End+Development+%7C+Spring+Boot;REST+APIs+%7C+SQL+%7C+Cloud;Software+Engineering+%7C+Clean+Code;Git+%7C+Linux+%7C+Docker;Building+real-world+projects" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student focused on **Python development, Artificial Intelligence and Machine Learning**.
+I am a Software Engineering student focused on **Java, Back-End Development, Spring Boot, SQL and Cloud**.
 
-My main goal is to build practical and intelligent solutions using Python, APIs, data analysis, machine learning models and AI-powered applications.
+My main goal is to build practical, efficient and well-structured systems using Java, REST APIs, databases and software engineering best practices.
 
 I am currently developing my skills in:
 
-* Python programming and automation
-* Data analysis with Pandas, NumPy and SQL
-* Machine Learning fundamentals
-* APIs with FastAPI
-* LLMs, RAG and AI Agents
-* Cloud fundamentals and deployable applications
-* Clean code, OOP and software engineering best practices
+* Java programming
+* Object-Oriented Programming
+* Back-End development
+* REST APIs with Spring Boot
+* SQL and relational databases
+* Cloud fundamentals
+* Docker and deployment basics
+* Clean code, Git and software architecture
 
 ---
 
 ## 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
@@ -52,32 +50,24 @@ I am currently developing my skills in:
 
 <table>
   <tr>
-    <td><strong>Python Development</strong></td>
-    <td>Applications, automation scripts, APIs and backend logic</td>
+    <td><strong>Java Development</strong></td>
+    <td>Object-oriented programming, back-end logic and application development</td>
   </tr>
   <tr>
-    <td><strong>Machine Learning</strong></td>
-    <td>Data preprocessing, model training, evaluation and intelligent systems</td>
+    <td><strong>Spring Boot</strong></td>
+    <td>REST APIs, services, controllers and scalable back-end applications</td>
   </tr>
   <tr>
-    <td><strong>Artificial Intelligence</strong></td>
-    <td>LLMs, RAG, AI agents and applied AI solutions</td>
+    <td><strong>SQL & Databases</strong></td>
+    <td>Relational databases, queries, modeling and data persistence</td>
   </tr>
   <tr>
-    <td><strong>Data Analysis</strong></td>
-    <td>Pandas, NumPy, SQL, data cleaning and insights extraction</td>
-  </tr>
-  <tr>
-    <td><strong>FastAPI & APIs</strong></td>
-    <td>Connecting AI models and applications through REST APIs</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & Deployment</strong></td>
-    <td>Preparing applications for scalability, deployment and real-world usage</td>
+    <td><strong>Cloud Fundamentals</strong></td>
+    <td>Preparing applications for deployment and real-world usage</td>
   </tr>
   <tr>
     <td><strong>Software Engineering</strong></td>
-    <td>Clean code, OOP, architecture, Git and best practices</td>
+    <td>Clean code, Git, architecture, testing and best practices</td>
   </tr>
 </table>
 
@@ -85,15 +75,14 @@ I am currently developing my skills in:
 
 ## 🧠 What I Am Building
 
-* Intelligent applications using Python
-* Machine Learning projects for portfolio
-* APIs integrated with AI models
-* Automation tools for real-world problems
-* Data analysis projects with SQL, Pandas and NumPy
-* AI systems using LLMs, RAG and agents
+* Back-end applications using Java
+* REST APIs with Spring Boot
+* Database-driven systems with SQL
+* Projects focused on clean architecture
+* Applications prepared for cloud deployment
+* Real-world projects for my developer portfolio
 
 ---
-
 
 ## 🌐 Connect With Me
 
@@ -109,5 +98,5 @@ I am currently developing my skills in:
 ---
 
 <p align="center">
-  <strong>Python • AI • Machine Learning • APIs • Data • Cloud</strong>
+  <strong>Java • Back-End • Spring Boot • SQL • Cloud • Software Engineering</strong>
 </p>
