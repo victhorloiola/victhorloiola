@@ -55,14 +55,12 @@ victhor = {
 }
 ```
 
-## GitHub activity
+## Explore my work
 
-<div align="center">
+My repositories document what I am building and learning, from object-oriented
+Python applications to APIs, databases, automation, and AI experiments.
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=victhorloiola&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Victhor's GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhorloiola&layout=compact&theme=github_dark&hide_border=true" alt="Victhor's most used languages" />
-
-</div>
+👉 [View my projects on GitHub](https://github.com/victhorloiola?tab=repositories)
 
 ---
 
