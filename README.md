@@ -34,6 +34,16 @@ I build reliable APIs, data-driven applications, and intelligent solutions using
 
 </div>
 
+## Certifications
+
+<div align="center">
+
+| Certification | Platform | Issued | Duration | Credential |
+|---|---|---:|---:|---|
+| Python Certification | Udemy | Jul 2026 | 5.5h | [Verify](https://ude.my/UC-d6035e33-29a9-4690-b1b6-d3f32ffac78c) |
+
+</div>
+
 ## What I build
 
 ```text
